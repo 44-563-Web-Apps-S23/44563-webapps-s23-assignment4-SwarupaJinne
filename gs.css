@@ -1,0 +1,48 @@
+.speech{
+    font-display: black;
+    color: black;
+    text-decoration: solid;
+    font-size: 20px;
+    font-family:'Times New Roman', Times, serif;
+}
+.direction{
+    font-style: italic;
+    background-color: lightblue;
+    color:black;
+    font-size: 10px;
+}
+.direction:hover{
+    background-color: lightgreen;
+    color: beige;
+}
+.bauer{
+    color: blue;
+    font-size: 16px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.lane{
+    color:aquamarine;
+    font-size: 16px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+.lane:hover{
+    background-color: crimson;
+}
+.bauer:hover{
+    background-color: blueviolet;
+}
+table.table
+{
+    color: palevioletred;
+    text-align: center;
+    padding: 70px;
+    margin:30px;
+    background-color: lightcoral;
+    text-align: center;
+}
+table, th, td {
+    border: 3px solid;
+    text-align: center;
+    background-color: lightcoral;
+  }
+
