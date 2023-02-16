@@ -9,7 +9,13 @@
     font-style: italic;
     background-color: lightblue;
     color:black;
-    font-size: 10px;
+    font-size: 15px;
+}
+.name{
+    font-style: italic;
+    background-color: lightgoldenrodyellow;
+    color:black;
+    font-size: 15px;
 }
 .direction:hover{
     background-color: lightgreen;
