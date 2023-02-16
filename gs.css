@@ -62,6 +62,10 @@ table, th, td,tr {
 tr:nth-child(odd){
     background-color: cadetblue;
 }
+.name:hover{
+    text-shadow: 5px 5px 3px black;
+    border:2px dotted green;
+}
 ul{
     display: flex;
     background-color:darkslateblue;
