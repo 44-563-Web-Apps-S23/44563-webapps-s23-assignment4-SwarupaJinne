@@ -12,33 +12,30 @@
     font-size: 15px;
 }
 .name{
-    font-style: italic;
-    background-color: lightgoldenrodyellow;
-    color:black;
-    font-size: 15px;
+
 }
 .direction:hover{
     background-color: lightgreen;
     color: beige;
 }
-.bauer{
+.MRSBAUER{
     color: blue;
     font-size: 16px;
     text-shadow: 2px 2px 5px black;
     font-family: Arial, Helvetica, sans-serif;
 }
-.lane{
+.LANE{
     color:aquamarine;
     font-size: 16px;
     text-shadow: 2px 2px 7px black;
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
 }
-.lane:hover{
+.LANE:hover{
     background-color: crimson;
     box-shadow: 0 3px 10px rgb(0 0 0 / 0.2);
     text-shadow: 2px 2px 7px black;
 }
-.bauer:hover{
+.MRSBAUER:hover{
     background-color: blueviolet;
     text-shadow: 2px 2px 7px black;
     box-shadow: 0 3px 10px rgb(0 0 0 / 0.2);
