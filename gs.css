@@ -65,3 +65,20 @@ table, th, td,tr {
 tr:nth-child(odd){
     background-color: cadetblue;
 }
+ul{
+    display: flex;
+    background-color:darkslateblue;
+    
+}
+ul li{
+    list-style: none;
+    padding: 20px;
+}
+ul li a{
+    text-decoration: none;
+    margin-left: 15px;
+    color: #fff;
+}
+li a:hover{
+    text-decoration:line-through;
+}
