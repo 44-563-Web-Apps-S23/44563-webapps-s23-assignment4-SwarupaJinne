@@ -33,22 +33,31 @@
 }
 .lane:hover{
     background-color: crimson;
+    box-shadow: 0 3px 10px rgb(0 0 0 / 0.2);
 }
 .bauer:hover{
     background-color: blueviolet;
+    box-shadow: 0 3px 10px rgb(0 0 0 / 0.2);
 }
-table.table
+.table
 {
-    color: palevioletred;
     text-align: center;
     padding: 70px;
     margin:30px;
     background-color: lightcoral;
+    border-collapse: collapse;
     text-align: center;
 }
-table, th, td {
+th{
+    background-color:cornflowerblue;
+}
+
+table, th, td,tr {
     border: 3px solid;
     text-align: center;
-    background-color: lightcoral;
+    /* background-color: lightcoral; */
+    padding: 20px;
   }
-
+tr:nth-child(odd){
+    background-color: cadetblue;
+}
